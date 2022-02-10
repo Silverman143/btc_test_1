@@ -1,0 +1,3 @@
+#!/Users/user/Documents/GitHub/bitcoin-bruteforce/env/bin/python3
+from numba.pycc import main
+main()
